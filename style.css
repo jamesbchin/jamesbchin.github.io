@@ -9,7 +9,7 @@ html, body {
 div.banner {
   width: 80%;
   min-width:600px;
-  height: 800px;
+  height: 90%;
   background-color: #000000;
   margin:auto;
   margin-top:10px;
@@ -21,7 +21,7 @@ div.banner {
 div.resume {
   width:80%;
   min-width:600px;
-  height:800px;
+  height:90%;
   background-color: #000000;
   margin:auto;
   margin-top:10px;
@@ -33,7 +33,7 @@ div.resume {
 div.gallery {
   width:80%;
   min-width:600px;
-  height:1200px;
+  height:90%;
   background-color: #000000;
   margin:auto;
   margin-top:10px;
