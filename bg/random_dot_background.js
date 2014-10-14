@@ -145,7 +145,7 @@ RandomDotBackground.prototype.buildRandomDotBackgroundAnimation = function() {
   this.canvas_.style.right = 0;
   this.canvas_.style.bottom = 0;
   this.canvas_.style.left = 0;
-  this.canvas_.style.zIndex = -100;
+  this.canvas_.style.zIndex = 100;
   document.body.zIndex = -101;
   document.body.appendChild(this.canvas_);
   this.setCanvasSize();
