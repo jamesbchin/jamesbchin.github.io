@@ -19,6 +19,16 @@ div.banner {
   text-align:center;
 }
 
+div.center {
+  height:auto;
+  width:auto;
+  background-color: #000000;
+  border-radius:10px;
+  padding:10px;
+  text-align:center;
+  margin-top:25%;
+}
+
 div.resume {
   width:80%;
   min-width:800px;
@@ -139,7 +149,6 @@ img.gallery:hover {
 p.title {
   color: #FFFFFF;
   font-size:40px;
-  margin-top:300px;
 }
 
 p.content {
@@ -178,36 +187,36 @@ div.banner, div.resume, div.gallery {
   opacity: 0;
 
   -webkit-animation-name: fade-in;
-  -webkit-animation-duration: 900ms;
-  -webkit-animation-delay: 1000ms;
+  -webkit-animation-duration: 500ms;
+  -webkit-animation-delay: 600ms;
   -webkit-animation-fill-mode: forwards;
   -webkit-animation-timing-function: linear;
   -webkit-animation-iteration-count: 1;
 
   -moz-animation-name: fade-in;
-  -moz-animation-duration: 900ms;
-  -moz-animation-delay: 1000ms;
+  -moz-animation-duration: 500ms;
+  -moz-animation-delay: 600ms;
   -moz-animation-fill-mode: forwards;
   -moz-animation-timing-function: linear;
   -moz-animation-iteration-count: 1;
 
   -ms-animation-name: fade-in;
-  -ms-animation-duration: 900ms;
-  -ms-animation-delay: 1000ms;
+  -ms-animation-duration: 500ms;
+  -ms-animation-delay: 600ms;
   -ms-animation-fill-mode: forwards;
   -ms-animation-timing-function: linear;
   -ms-animation-iteration-count: 1;
 
   -o-animation-name: fade-in;
-  -o-animation-duration: 900ms;
-  -o-animation-delay: 1000ms;
+  -o-animation-duration: 500ms;
+  -o-animation-delay: 600ms;
   -o-animation-fill-mode: forwards;
   -o-animation-timing-function: linear;
   -o-animation-iteration-count: 1;
 
   animation-name: fade-in;
-  animation-duration: 900ms;
-  animation-delay: 1000ms;
+  animation-duration: 500ms;
+  animation-delay: 600ms;
   animation-fill-mode: forwards;
   animation-timing-function: linear;
   animation-iteration-count: 1;
