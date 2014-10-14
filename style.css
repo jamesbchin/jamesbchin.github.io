@@ -174,28 +174,81 @@ a:hover {
   color:#FF0000;
 }
 
-/*
-div {
-  position: absolute;
-  width: 80%;
-  height: 80%;
-  top: 20%;
-  left: 10%;
-  right: 10%;
-  text-align: center;
-  font-size: 50px;
+div.banner, div.resume, div.gallery {
+  opacity: 0;
+
+  -webkit-animation-name: fade-in;
+  -webkit-animation-duration: 900ms;
+  -webkit-animation-delay: 1000ms;
+  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: 1;
+
+  -moz-animation-name: fade-in;
+  -moz-animation-duration: 900ms;
+  -moz-animation-delay: 1000ms;
+  -moz-animation-fill-mode: forwards;
+  -moz-animation-timing-function: linear;
+  -moz-animation-iteration-count: 1;
+
+  -ms-animation-name: fade-in;
+  -ms-animation-duration: 900ms;
+  -ms-animation-delay: 1000ms;
+  -ms-animation-fill-mode: forwards;
+  -ms-animation-timing-function: linear;
+  -ms-animation-iteration-count: 1;
+
+  -o-animation-name: fade-in;
+  -o-animation-duration: 900ms;
+  -o-animation-delay: 1000ms;
+  -o-animation-fill-mode: forwards;
+  -o-animation-timing-function: linear;
+  -o-animation-iteration-count: 1;
+
+  animation-name: fade-in;
+  animation-duration: 900ms;
+  animation-delay: 1000ms;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
 }
-a {
-  text-decoration: none;
-  color: #FF0000;
-  
-  -webkit-transition: all 200ms;
-  -moz-transition: all 200ms;
-  -ms-transition: all 200ms;
-  -o-transition: all 200ms;
-  transition: all 200ms;
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-a:hover {
-  color: #00FF00;
+@-moz-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-*/
+@-ms-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
