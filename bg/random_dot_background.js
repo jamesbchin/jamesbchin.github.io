@@ -69,7 +69,7 @@ RandomDotBackground.prototype.createDot = function(x, y,
                                         'circle');
   circle.setAttribute('cx', x);
   circle.setAttribute('cy', y);
-  circle.setAttribute('r', 0);
+  circle.setAttribute('r', 1);
   circle.setAttribute('fill', color);
   circle.setAttribute('fill-opacity', 0.4);
   this.canvas_.appendChild(circle);

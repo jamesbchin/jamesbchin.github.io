@@ -49,6 +49,7 @@ div.gallery {
   min-width:800px;
   height: auto;
   min-height:800px;
+  word-wrap: break-word;
   overflow: auto;
 
   background-color: #000000;
