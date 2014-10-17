@@ -1,23 +1,21 @@
 html, body {
   width: 100%;
-  min-width: 800px;
+  height: 100%;
   margin: 0;
   font-family: "Ubuntu", sans-serif;
   background: #ccc;
 }
 
 div.banner {
-  position: absolute;
-  width: 800px;
-  height: 600px;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: auto;
+  width: 80%;
+  min-width:800px;
+  height: 90%;
+  min-height:800px;
   background-color: #000000;
-
+  margin:auto;
+  margin-top:10px;
   border-radius:10px;
+  padding:10px;
   text-align:center;
 }
 
@@ -45,15 +43,14 @@ div.resume {
 }
 
 div.gallery {
-  width: 80%;
+  width:80%;
   min-width:800px;
-  height: auto;
+  height:1200px;
   min-height:800px;
-  word-wrap: break-word;
-  overflow: auto;
-
   background-color: #000000;
-  margin:10px auto;
+  margin:auto;
+  margin-top:10px;
+  margin-bottom:10px;
   border-radius:10px;
   padding:10px;
 }
@@ -106,7 +103,6 @@ div.up:hover {
 }
 
 div.picture {
-  display: block;
   background-color:#888888;
   float:left;
   height:200px;
@@ -123,6 +119,24 @@ div.picture {
   transition: all 300ms;
 }
 
+div.cool-stuff {
+  width: 80%;
+  min-width:800px;
+  height: auto;
+  min-height:800px;
+  background-color: #000000;
+  margin:auto;
+  margin-top:10px;
+  border-radius:10px;
+  padding:10px;
+  text-align:center;
+}
+
+img.cool-stuff {
+  height:600px;
+  width:auto;
+}
+
 img.gallery {
   height:200px;
   width:auto;
@@ -133,18 +147,10 @@ img.gallery {
   -ms-transition: all 300ms;
   -o-transition: all 300ms;
   transition: all 300ms;
-
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
-  border-radius: 10px;
-
-  cursor: pointer;
 }
 
 img.gallery:hover {
-  opacity: 1;
+  opacity:1;
 }
 
 /*
@@ -200,30 +206,35 @@ div.banner, div.resume, div.gallery {
 
   -webkit-animation-name: fade-in;
   -webkit-animation-duration: 500ms;
+  -webkit-animation-delay: 600ms;
   -webkit-animation-fill-mode: forwards;
   -webkit-animation-timing-function: linear;
   -webkit-animation-iteration-count: 1;
 
   -moz-animation-name: fade-in;
   -moz-animation-duration: 500ms;
+  -moz-animation-delay: 600ms;
   -moz-animation-fill-mode: forwards;
   -moz-animation-timing-function: linear;
   -moz-animation-iteration-count: 1;
 
   -ms-animation-name: fade-in;
   -ms-animation-duration: 500ms;
+  -ms-animation-delay: 600ms;
   -ms-animation-fill-mode: forwards;
   -ms-animation-timing-function: linear;
   -ms-animation-iteration-count: 1;
 
   -o-animation-name: fade-in;
   -o-animation-duration: 500ms;
+  -o-animation-delay: 600ms;
   -o-animation-fill-mode: forwards;
   -o-animation-timing-function: linear;
   -o-animation-iteration-count: 1;
 
   animation-name: fade-in;
   animation-duration: 500ms;
+  animation-delay: 600ms;
   animation-fill-mode: forwards;
   animation-timing-function: linear;
   animation-iteration-count: 1;
