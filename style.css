@@ -8,6 +8,11 @@ html, body {
 }
 */
 
+html, body {
+  font-family: "Ubuntu", sans-serif;
+  background: #000;
+}
+
 div.banner {
   width: 80%;
   min-width:800px;
