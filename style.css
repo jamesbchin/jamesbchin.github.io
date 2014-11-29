@@ -29,6 +29,7 @@ div.center {
   margin-top:25%;
 }
 
+/*
 div.resume {
   width:80%;
   min-width:800px;
@@ -41,7 +42,8 @@ div.resume {
   border-radius:10px;
   padding:10px;
 }
-/*
+*/
+
 div.gallery {
   width:80%;
   min-width:800px;
@@ -54,9 +56,8 @@ div.gallery {
   border-radius:10px;
   padding:10px;
 }
-*/
 
-div.gallery {
+div.resume {
   width:100%;
   height:100%;
   background-color: #000000;
