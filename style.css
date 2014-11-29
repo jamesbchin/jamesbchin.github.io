@@ -12,6 +12,7 @@ html, body {
 html, body {
   font-family: "Ubuntu", sans-serif;
   background: #000;
+  overflow: hidden; 
 }
 
 div.banner {
