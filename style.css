@@ -1,18 +1,9 @@
-
-/*
 html, body {
   width: 100%;
   height: 100%;
   margin: 0;
   font-family: "Ubuntu", sans-serif;
   background: #ccc;
-}
-*/
-
-html, body {
-  font-family: "Ubuntu", sans-serif;
-  background: #000;
-  overflow-x: hidden; 
 }
 
 div.banner {
@@ -297,4 +288,3 @@ div.banner, div.resume, div.gallery {
     opacity: 1;
   }
 }
-*/
