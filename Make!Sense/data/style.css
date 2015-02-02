@@ -61,8 +61,7 @@ div.body {
   background-color:#ecf0f1;
   width: 85%;
   min-width:1200px;
-  height: 80%;
-  min-height:800px;
+  height: auto;
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
