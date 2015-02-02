@@ -32,10 +32,8 @@ div.content {
 }
 
 div.banner {
-  width: 85%;
-  min-width:1200px;
-  height: 10%;
-  min-height:100px;
+  width:1200px;
+  height:100px;
   background-color: #2980b9;
   border-radius:10px;
   margin-left: auto;
@@ -59,8 +57,7 @@ div.banner_right {
 
 div.body {
   background-color:#ecf0f1;
-  width: 85%;
-  min-width:1200px;
+  width:1200px;
   height: auto;
   margin-top: 10px;
   margin-left: auto;
