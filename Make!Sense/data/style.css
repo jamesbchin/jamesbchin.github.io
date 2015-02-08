@@ -96,7 +96,19 @@ div.button {
   margin:10px;
 }
 
+div.button2 {
+  padding:10px;
+  width:175px;
+  background-color: #448AFF;
+  border-radius: 10px;
+  margin:10px;
+}
+
 div.button:hover {
+  background-color: #669AFF;
+}
+
+div.button2:hover {
   background-color: #669AFF;
 }
 
@@ -105,4 +117,12 @@ h1.title {
   color:#FFFFFF;
   margin-top:0px;
   margin-bottom:0px;
+}
+
+div.tutorial_header {
+  border-radius: 10px;
+  background-color: #B6B6B6;
+  height: 125px;
+  padding: 20px;
+  margin: 10px;
 }
