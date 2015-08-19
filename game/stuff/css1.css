@@ -1,0 +1,178 @@
+a {
+	text-decoration: none;
+}
+
+body {
+	background-color: #000;
+}
+
+div.acquired {
+	position: fixed;
+	right: 20px;
+	width: 30px;
+	top: 20px;
+	bottom: 20px;
+	background: #ccc;
+}
+
+div.banner {
+	background-image: url("http://4hdwallpapers.com/wp-content/uploads/2013/07/Space-background.jpg");
+	width: 1000px;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+div.body {
+	background: #2b57ca;
+	width: 1000px;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+div.code {
+	position: fixed;
+	left: 20px;
+	width: 30px;
+	top: 20px;
+	bottom: 20px;
+	background: #ccc;
+}
+div.code1 {
+	background: #F00;
+	position: fixed;
+	top: 30px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.displayScore {
+	background: #ccc;
+	position: fixed;
+	right: 20px;
+	width: 30px;
+	height: 30px;
+}
+
+div.gameButton {
+	background: darkblue;
+	border-radius: 20px;
+	width: 150px;
+	margin: auto;
+	border-style: solid;
+	border-color: #2b57ca;
+}
+
+div.gameField {
+	background: #ccc;
+	position: absolute;
+	top: 20px;
+	bottom: 20px;
+	left: 70px;
+	right: 70px;
+}
+
+div.gameButton:hover {
+	background: darkblue;
+	border-style: solid;
+	border-color: #000;
+}
+
+div.footer {
+	background: url("http://4hdwallpapers.com/wp-content/uploads/2013/07/Space-background.jpg");
+	width:1000px;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+div.player {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	background: #FFF;
+	border-style: solid;
+	border-color: black;
+}
+
+div.rules {
+	position:absolute;
+	margin: auto;
+}
+
+div.target1 {
+	position: absolute;
+	background: #F00;
+	height: 20px;
+	width: 20px;
+	top: 20px;
+	left: 20px;
+	border-style: solid;
+}
+
+div.target2 {
+	position: absolute;
+	background: #0F0;
+	height: 20px;
+	width: 20px;
+	top: 40px;
+	left: 20px;
+	border-style: solid;
+}
+
+div.target3 {
+	position: absolute;
+	background: #00F;
+	height: 20px;
+	width: 20px;
+	top: 60px;
+	left: 20px;
+	border-style: solid;
+}
+
+p.buttonText {
+	font-size: 20px;
+	font-family: Garamond;
+	color: #FFF;
+	font-weight: bold;
+}
+
+p.heading {
+	font-size: 30px;
+	font-family: Garamond;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+
+p.bottom {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Garamond;
+	color: #FFF;
+}
+
+p.text {
+	font-size: 20px;
+	font-family: Garamond;
+	color: #FFF;
+}
+
+p.title {
+	font-size: 50px;
+	font-family: Garamond;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+
+table.ruleTable {
+	text-align: center;
+}

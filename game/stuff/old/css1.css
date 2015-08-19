@@ -1,0 +1,333 @@
+a {
+	text-decoration: none;
+}
+
+body {
+	background-color: #000;
+}
+
+div.acquired {
+	position: fixed;
+	right: 20px;
+	width: 30px;
+	top: 20px;
+	bottom: 20px;
+	background: #ccc;
+}
+
+div.acquired1 {
+	background: #F00;
+	position: fixed;
+	top: 30px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired2 {
+	background: #F00;
+	position: fixed;
+	top: 50px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired3 {
+	background: #F00;
+	position: fixed;
+	top: 70px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired4 {
+	background: #F00;
+	position: fixed;
+	top: 90px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired5 {
+	background: #F00;
+	position: fixed;
+	top: 110px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired6 {
+	background: #F00;
+	position: fixed;
+	top: 130px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired7 {
+	background: #F00;
+	position: fixed;
+	top: 150px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired8 {
+	background: #F00;
+	position: fixed;
+	top: 170px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired9 {
+	background: #F00;
+	position: fixed;
+	top: 190px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.acquired10 {
+	background: #F00;
+	position: fixed;
+	top: 210px;
+	right: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.banner {
+	background-image: url("http://4hdwallpapers.com/wp-content/uploads/2013/07/Space-background.jpg");
+	width: 1000px;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+div.body {
+	background: #2b57ca;
+	width: 1000px;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+div.code {
+	position: fixed;
+	left: 20px;
+	width: 30px;
+	top: 20px;
+	bottom: 20px;
+	background: #ccc;
+}
+
+div.code1 {
+	background: #F00;
+	position: fixed;
+	top: 30px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code2 {
+	background: #0F0;
+	position: fixed;
+	top: 50px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code3 {
+	background: #00F;
+	position: fixed;
+	top: 70px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code4 {
+	background: #F00;
+	position: fixed;
+	top: 90px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code5 {
+	background: #0F0;
+	position: fixed;
+	top: 110px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code6 {
+	background: #00F;
+	position: fixed;
+	top: 130px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code7 {
+	background: #00F;
+	position: fixed;
+	top: 150px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code8 {
+	background: #00F;
+	position: fixed;
+	top: 170px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code9 {
+	background: #00F;
+	position: fixed;
+	top: 190px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.code10 {
+	background: #00F;
+	position: fixed;
+	top: 210px;
+	left: 30px;
+	height: 10px;
+	width: 10px;
+}
+
+div.gameButton {
+	background: darkblue;
+	border-radius: 20px;
+	width: 150px;
+	margin: auto;
+	border-style: solid;
+	border-color: #2b57ca;
+}
+
+div.gameField {
+	background: #ccc;
+	position: absolute;
+	top: 20px;
+	bottom: 20px;
+	left: 70px;
+	right: 70px;
+}
+
+div.gameButton:hover {
+	background: darkblue;
+	border-style: solid;
+	border-color: #000;
+}
+
+div.footer {
+	background: url("http://4hdwallpapers.com/wp-content/uploads/2013/07/Space-background.jpg");
+	width:1000px;
+	margin: auto;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+div.player {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	background: #FFF;
+	border-style: solid;
+	border-color: black;
+}
+
+div.target1 {
+	position: absolute;
+	background: #F00;
+	height: 20px;
+	width: 20px;
+	top: 20px;
+	left: 20px;
+	border-style: solid;
+}
+
+div.target2 {
+	position: absolute;
+	background: #0F0;
+	height: 20px;
+	width: 20px;
+	top: 40px;
+	left: 20px;
+	border-style: solid;
+}
+
+div.target3 {
+	position: absolute;
+	background: #00F;
+	height: 20px;
+	width: 20px;
+	top: 60px;
+	left: 20px;
+	border-style: solid;
+}
+
+p.buttonText {
+	font-size: 20px;
+	font-family: Garamond;
+	color: #FFF;
+	font-weight: bold;
+}
+
+p.heading {
+	font-size: 30px;
+	font-family: Garamond;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+
+p.bottom {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Garamond;
+	color: #FFF;
+}
+
+p.text {
+	font-size: 20px;
+	font-family: Garamond;
+	color: #FFF;
+}
+
+p.title {
+	font-size: 50px;
+	font-family: Garamond;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}

@@ -1,0 +1,92 @@
+<html>
+	<head>
+		<title>James Chin' Final Project</title>
+		<link rel="stylesheet" type="text/css" href="css1.css" />
+		<link type="text/javascript" href="javascript.js" />
+		<meta name="viewport" content="width=device-width, user-scalable=no" />		
+	</head>
+	<body>
+		<script src="javascript.js"></script>
+		<div class="code">
+			<div class="code1" id="code1"></div>
+			<div class="code2" id="code2"></div>
+			<div class="code3" id="code3"></div>
+			<div class="code4" id="code4"></div>
+			<div class="code5" id="code5"></div>
+			<div class="code6" id="code6"></div>
+			<div class="code7" id="code7"></div>
+			<div class="code8" id="code8"></div>
+			<div class="code9" id="code9"></div>
+			<div class="code10" id="code10"></div>
+		</div>
+		<div class="gameField" onclick="locateMouse(event)">
+			<div class="player" id="player"></div>
+			<div class="target1" id="target1"></div>
+			<div class="target2" id="target2"></div>
+			<div class="target3" id="target3"></div>
+		</div>
+		<div class="acquired">
+			<div class="acquired1" id="acquired1"></div>
+			<div class="acquired2" id="acquired2"></div>
+			<div class="acquired3" id="acquired3"></div>
+			<div class="acquired4" id="acquired4"></div>
+			<div class="acquired5" id="acquired5"></div>
+			<div class="acquired6" id="acquired6"></div>
+			<div class="acquired7" id="acquired7"></div>
+			<div class="acquired8" id="acquired8"></div>
+			<div class="acquired9" id="acquired9"></div>
+			<div class="acquired10" id="acquired10"></div>
+		</div>
+		<script>
+			dom = document.getElementById("player").style;
+			dom1 = document.getElementById("target1").style;
+			dom2 = document.getElementById("target2").style;
+			dom3 = document.getElementById("target3").style;
+			dom1.background = "#F00";
+			dom2.background = "#0F0";
+			dom3.background = "#00F";
+			document.getElementById("acquired1").style.background = "#ccc";
+			document.getElementById("acquired2").style.background = "#ccc";
+			document.getElementById("acquired3").style.background = "#ccc";
+			document.getElementById("acquired4").style.background = "#ccc";
+			document.getElementById("acquired5").style.background = "#ccc";
+			document.getElementById("acquired6").style.background = "#ccc";
+			document.getElementById("acquired7").style.background = "#ccc";
+			document.getElementById("acquired8").style.background = "#ccc";
+			document.getElementById("acquired9").style.background = "#ccc";
+			document.getElementById("acquired10").style.background = "#ccc";
+			//console.log(window.innerWidth / 10);
+			//console.log(window.innerHeight / 10);
+			if (window.innerHeight > window.innerWidth) {
+				dom.width = window.innerWidth / 20;
+				dom.height = window.innerWidth / 20;
+				dom1.width = window.innerWidth / 60;
+				dom2.width = window.innerWidth / 60;
+				dom3.width = window.innerWidth / 60;
+				dom1.height = window.innerWidth / 60;
+				dom2.height = window.innerWidth / 60; 
+				dom3.height = window.innerWidth / 60;
+				playerSize = window.innerWidth / 20;
+				targetSize = window.innerWidth / 60;
+			}
+			else {
+				dom.width = window.innerHeight / 20;
+				dom.height = window.innerHeight / 20;
+				dom1.width = window.innerHeight / 60;
+				dom2.width = window.innerHeight / 60;
+				dom3.width = window.innerHeight / 60;
+				dom1.height = window.innerHeight / 60;
+				dom2.height = window.innerHeight / 60;
+				dom3.height = window.innerHeight / 60;
+				playerSize = window.innerHeight / 20;
+				targetSize = window.innerHeight / 60;
+			}
+			randomizeCode();
+			randomizeTarget("target1");
+			randomizeTarget("target2");
+			randomizeTarget("target3");
+			setInterval(function(){move();collision("target1");collision("target2");collision("target3");},1);
+			document.onkeydown = checkKey;
+		</script>
+	</body>
+<html>

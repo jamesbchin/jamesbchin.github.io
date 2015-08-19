@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>Impossible Blocks</title>
+		<link rel="stylesheet" type="text/css" href="css1.css" />
+		<link type="text/javascript" href="javascript.js" />
+		<meta name="viewport" content="width=device-width, user-scalable=no" />		
+	</head>
+	<body>
+		<script src="javascript.js"></script>
+		<div class="code" id="code">
+		</div>
+		<div class="gameField" onclick="locateMouse(event)">
+			<div class="player" id="player"></div>
+			<div class="target1" id="target1"></div>
+			<div class="target2" id="target2"></div>
+			<div class="target3" id="target3"></div>
+		</div>
+		<div class="acquired" id="acquired">
+		</div>
+		<script>
+			dom = document.getElementById("player").style;
+			dom1 = document.getElementById("target1").style;
+			dom2 = document.getElementById("target2").style;
+			dom3 = document.getElementById("target3").style;
+			dom4 = document.getElementById("code").style;
+			dom5 = document.getElementById("acquired").style;
+			dom1.background = "#F00";
+			dom2.background = "#0F0";
+			dom3.background = "#00F";
+			dom4.background = "#ccc";
+			dom5.background = "#ccc";
+			if (window.innerHeight > window.innerWidth) {
+				dom.width = window.innerWidth / 20;
+				dom.height = window.innerWidth / 20;
+				dom1.width = window.innerWidth / 60;
+				dom2.width = window.innerWidth / 60;
+				dom3.width = window.innerWidth / 60;
+				dom1.height = window.innerWidth / 60;
+				dom2.height = window.innerWidth / 60; 
+				dom3.height = window.innerWidth / 60;
+				playerSize = window.innerWidth / 20;
+				targetSize = window.innerWidth / 60;
+			}
+			else {
+				dom.width = window.innerHeight / 20;
+				dom.height = window.innerHeight / 20;
+				dom1.width = window.innerHeight / 60;
+				dom2.width = window.innerHeight / 60;
+				dom3.width = window.innerHeight / 60;
+				dom1.height = window.innerHeight / 60;
+				dom2.height = window.innerHeight / 60;
+				dom3.height = window.innerHeight / 60;
+				playerSize = window.innerHeight / 20;
+				targetSize = window.innerHeight / 60;
+			}
+			increment = initialIncrement;
+			randomizeCode();
+			randomizeTarget("target1");
+			randomizeTarget("target2");
+			randomizeTarget("target3");
+			setInterval(function(){move();collision("target1");collision("target2");collision("target3");},1);
+			document.onkeydown = checkKey;
+		</script>
+	</body>
+<html>
