@@ -1,24 +1,21 @@
 html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
     font-family: "Ubuntu", sans-serif;
-    background: #ecf0f1;
-    /*overflow: hidden;*/
-  }
+    background: #f5f6fa;
+}
 
-  p.title {
-    color: #34495e;
-    font-size:120px;
-  }
-  
-  p.content {
-    color: #e74c3c;
-    font-size:20px;
-  }
-  
-  p.header {
-    color: #34495e;
-    font-size:30px;
-    text-align:center;
-  }
+p.title {
+    color: #353b48;
+    font-size: 80px;
+    margin-bottom: 40px;
+}
+
+p.text {
+    color: #273c75;
+    font-size: 20px;
+}
+
+div.main {
+    padding:  0;
+    width: auto;
+    text-align: center;
+}
