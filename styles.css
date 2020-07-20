@@ -7,11 +7,13 @@ p.title {
     color: #353b48;
     font-size: 80px;
     margin-bottom: 40px;
+    text-align: center;
 }
 
 p.text {
     color: #273c75;
     font-size: 20px;
+    text-align: center;
 }
 
 div.main {
