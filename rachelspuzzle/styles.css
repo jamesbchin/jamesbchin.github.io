@@ -1,0 +1,25 @@
+html, body {
+    font-family: "Ubuntu", sans-serif;
+    background: #000000;
+}
+
+p {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:hover {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:active {
+    color: #000000;
+}
