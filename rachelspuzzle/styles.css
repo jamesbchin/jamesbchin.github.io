@@ -8,18 +8,38 @@ p {
     text-align: center;
 }
 
-a:link {
+a:link.space {
     color: #000000;
 }
 
-a:hover {
+a:hover.space {
     color: #000000;
 }
 
-a:visited {
+a:visited.space {
     color: #000000;
 }
 
-a:active {
+a:active.space {
     color: #000000;
+}
+
+a:link.text {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover.text {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:visited.text {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:active.text {
+    color: #FFFFFF;
+    text-decoration: none;
 }
