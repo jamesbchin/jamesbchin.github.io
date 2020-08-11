@@ -10,36 +10,44 @@ p {
 
 a:link.space {
     color: #000000;
+    cursor: default;
 }
 
 a:hover.space {
     color: #000000;
+    cursor: default;
 }
 
 a:visited.space {
     color: #000000;
+    cursor: default;
 }
 
 a:active.space {
     color: #000000;
+    cursor: default;
 }
 
 a:link.text {
     color: #FFFFFF;
     text-decoration: none;
+    cursor: default;
 }
 
 a:hover.text {
     color: #FFFFFF;
     text-decoration: none;
+    cursor: default;
 }
 
 a:visited.text {
     color: #FFFFFF;
     text-decoration: none;
+    cursor: default;
 }
 
 a:active.text {
     color: #FFFFFF;
     text-decoration: none;
+    cursor: default;
 }
