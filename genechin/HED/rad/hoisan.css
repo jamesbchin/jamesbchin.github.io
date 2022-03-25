@@ -1,0 +1,55 @@
+body,td,th {
+	font-family: "Segoe UI Semibold",  "Segoe UI", Segoe, Verdana, sans-serif;
+	font-size: 16px;
+	color: #000033;
+}
+body {
+	background-color: #FFFFFF;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+a {
+	font-size: 100%;
+	color: #0000FF;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0000FF;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #0000FF;
+}
+h1 {
+	font-size: 150%;
+}
+h2 {
+	font-size: 120%;
+}
+h3 {
+	font-size: 110%;
+}
+h4 {
+	font-size: 90%;
+}
+h5 {
+	font-size: 75%;
+}
+h6 {
+	font-size: 50%;
+}
+.sm {
+	font-size: 60%;
+}
+.big {
+	font-size: 175%;
+}

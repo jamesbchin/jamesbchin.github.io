@@ -1,0 +1,66 @@
+body, td, th {
+	font-family: "segoe ui", verdana, helvetica, sans-serif;
+	font-size: 16px;
+	color: black;
+}
+
+body {
+/*	background-image:url(bgchin.jpg);	*/	
+	margin-left: 4px;
+	margin-top: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	background-color:#FFFFF4;
+	}
+table {
+	border-collapse:collapse;
+	}
+table, td, th{
+	border:0px solid #F30;
+	}
+td, th {
+		text-align:center; 
+		vertical-align:top;
+	}
+a {
+	font-size: 14px;
+	color: blue;
+	text-decoration: none;
+	}
+a:hover {
+	color: red;
+	}
+h1 {
+	font-size: 36px;
+	}
+h2 {
+	font-size: 28px;
+	}
+h3 {
+	font-size: 22px;
+	}
+h4 {
+	font-size: 18px;
+	}
+h5 {
+	font-size: 14px;
+	}
+h6 {
+	font-size: 10px;
+	}
+.mu {
+	color: Teal;
+	font-size: medium;
+	}
+.aftermu{
+	color: Black;
+	}
+.gene {
+	color: darkgreen;
+	}
+.poem1{
+	font-size: medium;
+	}
+.poem2{
+	font-size: large;
+	}
