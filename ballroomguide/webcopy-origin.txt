@@ -1,0 +1,3892 @@
+Uri: http://167.99.42.92/
+File Name: C:\Downloaded Web Sites\167.99.42.92\index.htm
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/accessories.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\accessories.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/google.com/+BallroomGuide
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\google.com\ BallroomGuide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/lady.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\lady.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/man.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\man.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoes.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoes.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_brands.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_brands.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_1.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_10.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_10.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_2.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_2.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_3.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_3.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_4.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_4.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_5.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_5.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_6.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_6.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_7.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_7.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_8.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_8.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/attire/shoe_guide/shoe_guide_9.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\attire\shoe_guide\shoe_guide_9.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/beginner_competition_guide.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\beginner_competition_guide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/check.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\check.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/competition_locator.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\competition_locator.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/hair_make_up.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\hair_make_up.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/comp/listings.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\listings.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/comp/map.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\comp\map.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/css/font/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\font\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://167.99.42.92/css/font/fontawesome-webfont.eot?v=4.0.1
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\font\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://167.99.42.92/css/font/fontawesome-webfont.svg?v=4.0.1
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\font\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://167.99.42.92/css/font/fontawesome-webfont.ttf?v=4.0.1
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\font\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://167.99.42.92/css/font/fontawesome-webfont.woff?v=4.0.1
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\font\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://167.99.42.92/css/images/bracket.svg
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\images\bracket.svg
+Content Type: image/svg+xml
+
+Uri: http://167.99.42.92/css/skel-noscript.css
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\skel-noscript.css
+Content Type: text/css
+
+Uri: http://167.99.42.92/css/style-desktop.css
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\style-desktop.css
+Content Type: text/css
+
+Uri: http://167.99.42.92/css/style.css
+File Name: C:\Downloaded Web Sites\167.99.42.92\css (1)\style.css
+Content Type: text/css
+
+Uri: http://167.99.42.92/favicon.ico
+File Name: C:\Downloaded Web Sites\167.99.42.92\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://167.99.42.92/google.com/+BallroomGuide
+File Name: C:\Downloaded Web Sites\167.99.42.92\google.com\ BallroomGuide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/images/ankle1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ankle1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ankle2.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ankle2.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/ankle4.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ankle4.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ankles3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ankles3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ankles5.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ankles5.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ankles6.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ankles6.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/argue.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\argue.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/argument.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\argument.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/astaire1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\astaire1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/back_lift.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\back_lift.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ballerinafeet.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ballerinafeet.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ballet.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ballet.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ballroomplayer.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ballroomplayer.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/banner.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/baseball.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\baseball.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/beginner.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\beginner.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/BGBB.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\BGBB.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/BGBBSquare.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\BGBBSquare.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Blackpool.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Blackpool.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/blackpool_logo.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\blackpool_logo.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/bosu.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\bosu.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/bounce.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\bounce.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/brands.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\brands.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/broken_sway.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\broken_sway.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/brush.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\brush.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/brush2large.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\brush2large.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/bunion.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\bunion.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/calfstretch.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\calfstretch.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/callback.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\callback.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/castor.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\castor.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/CBMP.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\CBMP.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/cha1.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\cha1.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/checklist.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\checklist.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/circle 1.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circle 1.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/circles.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circles.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/circle_1_text.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circle_1_text.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/circle_2_text.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circle_2_text.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/circle_eighth.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circle_eighth.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/circle_heel_turn.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circle_heel_turn.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/circle_straight_eighth.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\circle_straight_eighth.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/clock.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\clock.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/cobra.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\cobra.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/collar.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\collar.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/comp1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\comp1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/contra_check.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\contra_check.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/count-6.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\count-6.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/cuba.gif
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\cuba.gif
+Content Type: image/gif
+
+Uri: http://167.99.42.92/images/cucaracha.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\cucaracha.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/cucaracha1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\cucaracha1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/cufflinks.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\cufflinks.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/dancepicker.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dancepicker.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/dancesportmusic.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dancesportmusic.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Ballroom/IMG_6764 - 1000.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Ballroom\IMG_6764 - 1000.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Ballroom/IMG_6773 - 1000.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Ballroom\IMG_6773 - 1000.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Ballroom/IMG_6786 - 1000Cut.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Ballroom\IMG_6786 - 1000Cut.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Ballroom/IMG_6869 - 1000Cut.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Ballroom\IMG_6869 - 1000Cut.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Ballroom/IMG_6874 - 1000.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Ballroom\IMG_6874 - 1000.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Ballroom/IMG_6930 - 1000Cut.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Ballroom\IMG_6930 - 1000Cut.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Dance_Floor_Ballroom - 1000.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Dance_Floor_Ballroom - 1000.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Feet/IMG_6553 - 1000Cut.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Feet\IMG_6553 - 1000Cut.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/IMG_6397 - 736x494.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\IMG_6397 - 736x494.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/IMG_7888_736x494.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\IMG_7888_736x494.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Latin/IMG_8004 - 1000Cut.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Latin\IMG_8004 - 1000Cut.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Dancing/Latin/IMG_8102 - 1000Cut.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Dancing\Latin\IMG_8102 - 1000Cut.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/diagonalfoot.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\diagonalfoot.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/dictionarysmall.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dictionarysmall.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/divorce.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\divorce.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/DoubleReverse1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\DoubleReverse1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/dress.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dress.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/dress1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dress1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/dress1small.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dress1small.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/dress2.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\dress2.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/eyes.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\eyes.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/fallaway_slip_pivot_direction.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\fallaway_slip_pivot_direction.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/FanDiagram.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\FanDiagram.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/feet_in_CBMP.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\feet_in_CBMP.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/Ferrari-RY.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Ferrari-RY.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/final_1.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\final_1.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/final_2.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\final_2.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/final_3.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\final_3.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/final_4.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\final_4.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/final_5.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\final_5.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/fivefingershoes.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\fivefingershoes.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/floorcraft.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\floorcraft.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/flutter kick.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\flutter kick.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/footwaker.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\footwaker.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/footwaker2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\footwaker2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/foreheaddot.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\foreheaddot.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/foxclock.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\foxclock.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/frame1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\frame1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/framediagram1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\framediagram1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/frontback.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\frontback.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/fungframe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\fungframe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/fwd locks.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\fwd locks.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/GodAdam.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\GodAdam.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Got-Your-Back.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Got-Your-Back.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/gyro.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\gyro.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/gyro2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\gyro2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/gyro3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\gyro3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/gyro_pilates.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\gyro_pilates.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/habaneroorange.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\habaneroorange.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/hairmakeup.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\hairmakeup.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/handkerchief.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\handkerchief.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/happy-new-year.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\happy-new-year.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/heel close.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\heel close.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/heel turn.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\heel turn.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/heelprotector.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\heelprotector.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/heels.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\heels.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/heel_turn.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\heel_turn.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/hipgif1.gif
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\hipgif1.gif
+Content Type: image/gif
+
+Uri: http://167.99.42.92/images/hipgif2.gif
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\hipgif2.gif
+Content Type: image/gif
+
+Uri: http://167.99.42.92/images/hipgif3.gif
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\hipgif3.gif
+Content Type: image/gif
+
+Uri: http://167.99.42.92/images/hipgiflegend.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\hipgiflegend.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/hopscotch.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\hopscotch.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/iching3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\iching3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ideal.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ideal.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/jive1.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\jive1.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/johnny_bravo.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\johnny_bravo.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/judging.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\judging.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/knee_over_toe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\knee_over_toe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ladydancepants.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ladydancepants.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ladylatinshoe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ladylatinshoe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ladystandardshoe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ladystandardshoe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latin2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latin2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latindress.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latindress.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latinlegs.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latinlegs.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latinlegs2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latinlegs2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latinlegssmall.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latinlegssmall.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/latinpants.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latinpants.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latinpantssmall.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latinpantssmall.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/latinshirt.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latinshirt.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/latshirt.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\latshirt.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/lead_follow.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\lead_follow.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/levels.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\levels.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/limbo_toes.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\limbo_toes.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Line of Dance.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Line of Dance.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Locate.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Locate.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/lock.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\lock.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/lookback.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\lookback.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/looneytunes.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\looneytunes.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/mango.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\mango.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/manslatshoe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\manslatshoe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/mansstandardshoes.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\mansstandardshoes.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/matador.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\matador.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/mercury.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\mercury.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/metronome.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\metronome.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/Mirko_overswayjpg.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Mirko_overswayjpg.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/muscles1.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\muscles1.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/muscles2.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\muscles2.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/music1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\music1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/music3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\music3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/musical_notes.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\musical_notes.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/NDCA-logo.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\NDCA-logo.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Non-Dance/Pilates - 736x494.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Non-Dance\Pilates - 736x494.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Non-Dance/Yoga - 736x494.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Non-Dance\Yoga - 736x494.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/nutrition.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\nutrition.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ola_samba.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ola_samba.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/oldviennese.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\oldviennese.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/onthefloor.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\onthefloor.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/paso1 - full.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\paso1 - full.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/passport_greencard.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\passport_greencard.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/patent.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\patent.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/pecstretch.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\pecstretch.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/phonedancing.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\phonedancing.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/phrasing.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\phrasing.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/pilates2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\pilates2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/plantarfasciitis.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\plantarfasciitis.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/position_closed.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\position_closed.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/position_counter pp.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\position_counter pp.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/position_hinge.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\position_hinge.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/position_pp.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\position_pp.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/position_same foot .png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\position_same foot .png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/position_wing.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\position_wing.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/posture.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\posture.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/pp samba.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\pp samba.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/pp standard.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\pp standard.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/practiceshoe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\practiceshoe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/pretty.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\pretty.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/quadrant.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\quadrant.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/quickstep1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\quickstep1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rayrose.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rayrose.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/respect.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\respect.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/rhythm_1&a.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_1&a.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_123.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_123.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_34141.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_34141.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_3414341434141.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_3414341434141.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_clave.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_clave.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_QQQQ.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_QQQQ.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_QQS.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_QQS.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_SQQ.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_SQQ.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rhythm_SS.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rhythm_SS.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/riccardo2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\riccardo2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Rise&Fall.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Rise&Fall.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Rise&Fall_Chasse.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Rise&Fall_Chasse.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Rise&Fall_Whisk.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Rise&Fall_Whisk.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/robe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\robe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/rumba1.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\rumba1.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/RYnewyork.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYnewyork.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/RYposes/closedhold.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\closedhold.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/closedholdpaso.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\closedholdpaso.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/contraCPP.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\contraCPP.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/contraPP.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\contraPP.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/CPPpaso.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\CPPpaso.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/cubancrosssamba.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\cubancrosssamba.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/extendeddlayedwalklady.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\extendeddlayedwalklady.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/fan.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\fan.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/invertedcpp.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\invertedcpp.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/invertedpp.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\invertedpp.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/newyork2.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\newyork2.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/openholds.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\openholds.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/PPpaso.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\PPpaso.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/presseddelayedwalklady.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\presseddelayedwalklady.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/RSPs.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\RSPs.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/RYposes/shadow.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\RYposes\shadow.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/ry_connect.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ry_connect.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/samba1.jpeg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\samba1.jpeg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/shank1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\shank1.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/shcism.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\shcism.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/shoebag.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\shoebag.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/shoenewold.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\shoenewold.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/Simple/Book AZ - 400x400.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Book AZ - 400x400.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Simple/locator.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\locator.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/Simple/Music - 368x247.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Music - 368x247.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Simple/Nutrition - 368x247.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Nutrition - 368x247.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Simple/Phones_Blank - 368x247.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Phones_Blank - 368x247.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Simple/Step_Chart - 1180x704.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Step_Chart - 1180x704.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Simple/Step_Chart - 368x247.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Step_Chart - 368x247.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Simple/Weights - 994x667.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Simple\Weights - 994x667.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/small_standard.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\small_standard.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/smoothdress.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\smoothdress.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/smoothshoe.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\smoothshoe.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/smoothsuit.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\smoothsuit.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/sneaker.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\sneaker.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/socialfeet.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\socialfeet.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/speeding.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\speeding.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/spine.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\spine.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Spiograph_Animation.gif
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Spiograph_Animation.gif
+Content Type: image/gif
+
+Uri: http://167.99.42.92/images/spirograph.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\spirograph.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/staccato.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\staccato.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/standard1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\standard1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/standard2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\standard2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/standardlegs.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\standardlegs.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/standardlegs2.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\standardlegs2.JPG
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/standardpants.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\standardpants.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/starcraft.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\starcraft.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/stronglegs.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\stronglegs.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Structure of Dance.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Structure of Dance.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/studs.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\studs.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/sway.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\sway.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/sway_dance.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\sway_dance.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/sway_dance1.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\sway_dance1.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/swing1.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\swing1.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/sylstandard.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\sylstandard.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tailshirt.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tailshirt.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tailsuit3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tailsuit3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tango1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tango1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tango2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tango2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tango3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tango3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tango4.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tango4.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tape.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tape.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/temposlowmo.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\temposlowmo.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Things/MakeUp - 1000.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Things\MakeUp - 1000.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/ThrowawayOversway1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\ThrowawayOversway1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/tie.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\tie.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/toeseparators.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\toeseparators.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/trainer.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\trainer.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/triangle1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\triangle1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/triangle2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\triangle2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/triangle3.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\triangle3.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/triangle_math.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\triangle_math.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/two_tracks.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\two_tracks.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/US-Dance_2016_Ad.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\US-Dance_2016_Ad.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/usadance-logo.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\usadance-logo.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/used.JPG
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\used.JPG
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/vaseline.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\vaseline.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/vendors.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\vendors.jpg
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/vest.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\vest.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/viennese1.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\viennese1.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/volta_feet.png
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\volta_feet.png
+Content Type: image/png
+
+Uri: http://167.99.42.92/images/waistcoat.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\waistcoat.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/waltz2.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\waltz2.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/Waltz_feet.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\Waltz_feet.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/images/wdsf.jpg
+File Name: C:\Downloaded Web Sites\167.99.42.92\images\wdsf.jpg
+Content Type: image/jpeg
+
+Uri: http://167.99.42.92/index.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\index.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/js/config.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\js\config.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/js/jquery.dropotron.min.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\js\jquery.dropotron.min.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/js/skel-panels.min.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\js\skel-panels.min.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/js/skel.min.js
+File Name: C:\Downloaded Web Sites\167.99.42.92\js\skel.min.js
+Content Type: application/javascript
+
+Uri: http://167.99.42.92/links/NDCA_Addendum.pdf
+File Name: C:\Downloaded Web Sites\167.99.42.92\links\NDCA_Addendum.pdf.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/apps.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\apps.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/articles.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\articles.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_02_22_blackpool.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_02_22_blackpool.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_02_24_the_9_rumba_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_02_24_the_9_rumba_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_02_26_frame_and_elbows.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_02_26_frame_and_elbows.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_02_29_four_types_floorcraft.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_02_29_four_types_floorcraft.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_02_9_rhythms_of_samba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_02_9_rhythms_of_samba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_04_strong_ankles.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_04_strong_ankles.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_07_rise_fall_waltz_part_1.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_07_rise_fall_waltz_part_1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_09_the_4_latin_leads.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_09_the_4_latin_leads.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_11_the_3_types_of_swing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_11_the_3_types_of_swing.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_14_musicality_and_phrasing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_14_musicality_and_phrasing.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_16_CBM_and_CBMP.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_16_CBM_and_CBMP.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_18_fast_feet.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_18_fast_feet.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_21_viennese_waltz_easy.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_21_viennese_waltz_easy.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_25_perfect_posture.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_25_perfect_posture.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_28_usa_dance_nationals.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_28_usa_dance_nationals.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_03_31_sway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_03_31_sway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_04_WDC_WDSF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_04_WDC_WDSF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_08_fighting_partner.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_08_fighting_partner.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_11_latin_characteristics.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_11_latin_characteristics.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_15_differences_in_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_15_differences_in_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_18_secrets_of_the_heel_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_18_secrets_of_the_heel_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_25_USA_Dance_NDCA.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_25_USA_Dance_NDCA.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_04_29_starcraft_ballroom.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_04_29_starcraft_ballroom.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_02_how_to_build_standard_routine.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_02_how_to_build_standard_routine.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_06_quadrants_head_weight.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_06_quadrants_head_weight.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_09_samba_bounce.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_09_samba_bounce.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_13_WDSF_syllabus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_13_WDSF_syllabus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_16_rise_fall_waltz_part_2.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_16_rise_fall_waltz_part_2.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_20_spiral_action_technique.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_20_spiral_action_technique.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_05_25_natural_reverse_circles.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_05_25_natural_reverse_circles.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_06_01_what_to_look_for_in_partner.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_06_01_what_to_look_for_in_partner.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_06_08_viennese_waltz_routine.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_06_08_viennese_waltz_routine.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_06_15_all_about_cucarachas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_06_15_all_about_cucarachas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_06_22_promenade_position.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_06_22_promenade_position.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_06_29_paso_doble_phrasing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_06_29_paso_doble_phrasing.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_07_13_six_positions.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_07_13_six_positions.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_07_20_fan_position.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_07_20_fan_position.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_07_27_musically_off_time.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_07_27_musically_off_time.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_08_03_how_to_build_latin_routine.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_08_03_how_to_build_latin_routine.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_08_10_principles_double_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_08_10_principles_double_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_08_17_fun_Latin_developments.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_08_17_fun_Latin_developments.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_08_24_make_basic_standard_advanced.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_08_24_make_basic_standard_advanced.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_08_31_static_dynamic_balance.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_08_31_static_dynamic_balance.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_09_07_standard_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_09_07_standard_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_09_14_connection_breathe.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_09_14_connection_breathe.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_09_28_rise_fall_waltz_part_3.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_09_28_rise_fall_waltz_part_3.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_10_05_forward_walk_turning.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_10_05_forward_walk_turning.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_10_12_the_3_types_of_rise.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_10_12_the_3_types_of_rise.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_10_19_healthy_feet.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_10_19_healthy_feet.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_10_26_foxtrot_timing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_10_26_foxtrot_timing.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_11_02_guapacha_habanera.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_11_02_guapacha_habanera.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_11_09_tango_heel_close.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_11_09_tango_heel_close.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_11_16_use_of_eyes.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_11_16_use_of_eyes.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_11_30_tango_staccato_legato.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_11_30_tango_staccato_legato.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2016_12_14_cuban_hip_action.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2016_12_14_cuban_hip_action.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_01_04_inside_outside_of_turns.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_01_04_inside_outside_of_turns.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_01_18_cha_cha_locks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_01_18_cha_cha_locks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_02_01_fallaway_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_02_01_fallaway_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_02_15_promenade_samba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_02_15_promenade_samba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_03_01_three_step_QQS.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_03_01_three_step_QQS.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_03_15_paso_the_easiest_dance.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_03_15_paso_the_easiest_dance.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_03_29_5_footwork_mistakes.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_03_29_5_footwork_mistakes.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_04_12_three_types_of_voltas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_04_12_three_types_of_voltas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_04_26_syllabus_waltz_dodgers.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_04_26_syllabus_waltz_dodgers.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_05_10_syllabus_foxtrot_dodgers.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_05_10_syllabus_foxtrot_dodgers.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_05_24_timing_rumba_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_05_24_timing_rumba_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_06_07_4_tango_reverse_turns.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_06_07_4_tango_reverse_turns.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_06_21_syllabus_tango_dodgers.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_06_21_syllabus_tango_dodgers.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_07_05_syllabus_quickstep_dodgers.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_07_05_syllabus_quickstep_dodgers.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_08_30_alexander_posture.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_08_30_alexander_posture.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/blog/2017_11_01_skating_system.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\blog\2017_11_01_skating_system.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/fitness.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\fitness.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/fitness/gyro.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\fitness\gyro.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/fitness/pilates.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\fitness\pilates.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/fitness/yoga.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\fitness\yoga.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/music.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\music.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/nutrition.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\nutrition.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/cha_cha/beginner_cha_cha.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\cha_cha\beginner_cha_cha.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/cha_cha/bronze_cha_cha.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\cha_cha\bronze_cha_cha.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/cha_cha/silver_cha_cha.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\cha_cha\silver_cha_cha.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/foxtrot/beginner_foxtrot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\foxtrot\beginner_foxtrot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/foxtrot/bronze_foxtrot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\foxtrot\bronze_foxtrot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/foxtrot/silver_foxtrot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\foxtrot\silver_foxtrot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/jive/beginner_jive.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\jive\beginner_jive.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/jive/bronze_jive.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\jive\bronze_jive.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/jive/silver_jive.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\jive\silver_jive.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/paso/beginner_paso.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\paso\beginner_paso.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/paso/beginner_paso_doble.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\paso\beginner_paso_doble.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/paso/bronze_paso_doble.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\paso\bronze_paso_doble.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/paso/silver_paso_doble.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\paso\silver_paso_doble.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/quickstep/beginner_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\quickstep\beginner_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/quickstep/bronze_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\quickstep\bronze_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/quickstep/silver_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\quickstep\silver_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/rumba/beginner_rumba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\rumba\beginner_rumba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/rumba/bronze_rumba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\rumba\bronze_rumba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/rumba/silver_rumba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\rumba\silver_rumba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/samba/beginner_samba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\samba\beginner_samba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/samba/bronze_samba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\samba\bronze_samba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/samba/silver_samba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\samba\silver_samba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/tango/beginner_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\tango\beginner_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/tango/bronze_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\tango\bronze_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/tango/silver_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\tango\silver_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/viennese_waltz/bronze_viennese_waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\viennese_waltz\bronze_viennese_waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/viennese_waltz/silver_viennese_waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\viennese_waltz\silver_viennese_waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/waltz/beginner_waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\waltz\beginner_waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/waltz/bronze_waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\waltz\bronze_waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/waltz/gold_waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\waltz\gold_waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/resources/routines/waltz/silver_waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\resources\routines\waltz\silver_waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/dictionary.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\dictionary.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_back_swivel_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_back_swivel_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_back_swivel_basic_hip_twist_sit_line.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_back_swivel_basic_hip_twist_sit_line.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_box_zigzags.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_box_zigzags.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_checked_alemana_tandem_sit_line.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_checked_alemana_tandem_sit_line.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_check_open_CPP_new_york_1.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_check_open_CPP_new_york_1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_check_open_CPP_new_york_2.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_check_open_CPP_new_york_2.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_check_open_cpp_three_step_turn_mark_time.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_check_open_cpp_three_step_turn_mark_time.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_cuban_break_rsp_spot_turn_ball_change_tandem.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_cuban_break_rsp_spot_turn_ball_change_tandem.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_doubled_cuban_break_actions_cpp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_doubled_cuban_break_actions_cpp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_doubled_cuban_break_actions_cpp_2.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_doubled_cuban_break_actions_cpp_2.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_foot_change_rsp_passing_zigzag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_foot_change_rsp_passing_zigzag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_hip_throw_turns.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_hip_throw_turns.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_linear_turns_syncopated_open_hip_twist.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_linear_turns_syncopated_open_hip_twist.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_lunge_check_from_open_CPP_three_step_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_lunge_check_from_open_CPP_three_step_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_runaway_zigzag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_runaway_zigzag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_solo_rsp_ronde_three_step_turn_step_tap.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_solo_rsp_ronde_three_step_turn_step_tap.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_syncopated_telespin_hesitation_foot_taps.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_syncopated_telespin_hesitation_foot_taps.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_telespin_spiral_ending.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_telespin_spiral_ending.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/cha_cha_three_step_turn_cuban_break_shunt.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\cha_cha_three_step_turn_cuban_break_shunt.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/cha_cha/running_lock_zig_zag_check_three_step_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\cha_cha\running_lock_zig_zag_check_three_step_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_chicken_walks_reverse_throwaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_chicken_walks_reverse_throwaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_chugging_turning_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_chugging_turning_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_double_hold_underarm_turns_catapult.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_double_hold_underarm_turns_catapult.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_flicks_double_single_rhythm_close_tap_kick_botafogo.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_flicks_double_single_rhythm_close_tap_kick_botafogo.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_hand_to_hand_checked_turns.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_hand_to_hand_checked_turns.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_lunge_throwaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_lunge_throwaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_miami_special_circular_kick_ball_change_three_step_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_miami_special_circular_kick_ball_change_three_step_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_rotary_american_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_rotary_american_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_rotary_hand_to_hand_checked_turns.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_rotary_hand_to_hand_checked_turns.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_RSP_solo_chicken_walks_shunt_botafogo_spot_turn_foot_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_RSP_solo_chicken_walks_shunt_botafogo_spot_turn_foot_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_single_beat_shoulder_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_single_beat_shoulder_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_solo_flicks_zogzags_shunt_foot_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_solo_flicks_zogzags_shunt_foot_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_step_tap_leg_curl_kick_botafogo_foot_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_step_tap_leg_curl_kick_botafogo_foot_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_sugar_push_variation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_sugar_push_variation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_tollgate.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_tollgate.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_travelling_american_spin_foot_change_flicks_sailor_shuffle.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_travelling_american_spin_foot_change_flicks_sailor_shuffle.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_travelling_flick_ball_change_pp_spin_throwaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_travelling_flick_ball_change_pp_spin_throwaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_turning_double_ball_change_simple_spin_three_step_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_turning_double_ball_change_simple_spin_three_step_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_turning_double_ball_change_three_step_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_turning_double_ball_change_three_step_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/jive/jive_type_of_rolling_off_arm_foot_change_solo_LSP.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\jive\jive_type_of_rolling_off_arm_foot_change_solo_LSP.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_appel_circular_walks_twists.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_appel_circular_walks_twists.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_appel_promenade_quick_lock_forward_lunge.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_appel_promenade_quick_lock_forward_lunge.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_chasse_cape_lsp_spanish_twist_banderillas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_chasse_cape_lsp_spanish_twist_banderillas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_chasse_pivot_reverse_turn_natural_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_chasse_pivot_reverse_turn_natural_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_continuous_locks_check_spanish_line.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_continuous_locks_check_spanish_line.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_continuous_spins_slow_quick_rhythm_shadow.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_continuous_spins_slow_quick_rhythm_shadow.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_developed_flamenco_rhythm_standing_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_developed_flamenco_rhythm_standing_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_grand_circle_zigzag_run_check_fallaway_slip_pivot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_grand_circle_zigzag_run_check_fallaway_slip_pivot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_huit_walks_volta_appel_zigzag_lunge.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_huit_walks_volta_appel_zigzag_lunge.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_natural_spin_aerial_ronde_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_natural_spin_aerial_ronde_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_open_telemark_promenade_counter_promenade_runs.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_open_telemark_promenade_counter_promenade_runs.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_points_stalking_zigzag_check.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_points_stalking_zigzag_check.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_slip_appel_reverse_swivel_basic_check_chasse_cape.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_slip_appel_reverse_swivel_basic_check_chasse_cape.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_stalking_walks_twists_spanish_lines_circular_walks_huit_bota_fogo.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_stalking_walks_twists_spanish_lines_circular_walks_huit_bota_fogo.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_syncoapted_appel_outside_turn_developpe_promenade_spiral.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_syncoapted_appel_outside_turn_developpe_promenade_spiral.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_syncopated_appel_challenge_natural_spins.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_syncopated_appel_challenge_natural_spins.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_syncopated_appel_check_telespin_zigzag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_syncopated_appel_check_telespin_zigzag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_syncopated_appel_developpe_outside_turn_chasse_cape.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_syncopated_appel_developpe_outside_turn_chasse_cape.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_tandem_spins_locks_huit_botafogo_volta.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_tandem_spins_locks_huit_botafogo_volta.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/paso/paso_doble_twists_action_opening_promenade_rsp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\paso\paso_doble_twists_action_opening_promenade_rsp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_alemana_ronde_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_alemana_ronde_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_back_swivel_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_back_swivel_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_back_swivel_delayed_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_back_swivel_delayed_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_checked_alemana_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_checked_alemana_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_checked_turns_spin_action.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_checked_turns_spin_action.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_circular_hip_twist_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_circular_hip_twist_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_continuous_alemana.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_continuous_alemana.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_cont_hip_twist_attitude_developpe.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_cont_hip_twist_attitude_developpe.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_cont_spin_spot_turn_tandem_line.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_cont_spin_spot_turn_tandem_line.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_developed_curl_alemana_check_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_developed_curl_alemana_check_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_developed_open_hip_twist.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_developed_open_hip_twist.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_lunge_check_new_york.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_lunge_check_new_york.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_natural_top_under_arm_opening_out.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_natural_top_under_arm_opening_out.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_overturned_curl_sit_line.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_overturned_curl_sit_line.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_sliding_doors_development.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_sliding_doors_development.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_standing_spin_opening_out.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_standing_spin_opening_out.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_syncopated_lunge_check_new_york.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_syncopated_lunge_check_new_york.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_telespin_syncopated_spiral.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_telespin_syncopated_spiral.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/rumba/rumba_three_threes_swivels.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\rumba\rumba_three_threes_swivels.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/advanced_maxixe.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\advanced_maxixe.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/batucada.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\batucada.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/botafogo_action_batucada_rhythm.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\botafogo_action_batucada_rhythm.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/box_movement.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\box_movement.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/carioca_runs_lambada.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\carioca_runs_lambada.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/checked_reverse_roll_ronde_split_rhythm.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\checked_reverse_roll_ronde_split_rhythm.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/continuous_quick_zigzags.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\continuous_quick_zigzags.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/continuous_volta_shadow_roll.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\continuous_volta_shadow_roll.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/delayed_reverse_shadow_volta_roll.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\delayed_reverse_shadow_volta_roll.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/developed_corta_jaca_action.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\developed_corta_jaca_action.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/developed_promenade_counter_promenade_runs.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\developed_promenade_counter_promenade_runs.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/developed_whisks_natural_pivots.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\developed_whisks_natural_pivots.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/fallaway_runs.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\fallaway_runs.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/high_back_check_three_step_turn_whisk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\high_back_check_three_step_turn_whisk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/lunge_checks_tandem_position.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\lunge_checks_tandem_position.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/passing_turns.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\passing_turns.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/running_lock_zigzag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\running_lock_zigzag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/running_zigzag_solo_right_side_position.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\running_zigzag_solo_right_side_position.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/shadow_rocks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\shadow_rocks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/advanced/samba/travelling_volta_split_rhythm.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\advanced\samba\travelling_volta_split_rhythm.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/aida.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\aida.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/alemana.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\alemana.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/basic_in_place.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\basic_in_place.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/chase.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\chase.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/closed_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\closed_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/closed_hip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\closed_hip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/cross_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\cross_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/cuban_breaks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\cuban_breaks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/curl.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\curl.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/fan.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\fan.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/follow_leader.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\follow_leader.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/foot_change_1.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\foot_change_1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/foot_change_2.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\foot_change_2.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/foot_change_3.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\foot_change_3.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/foot_change_4.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\foot_change_4.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/hand_to_hand.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\hand_to_hand.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/hip_spiral.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\hip_spiral.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/hockey_stick.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\hockey_stick.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/natural_top.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\natural_top.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/new_york.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\new_york.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/opening_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\opening_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/open_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\open_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/open_hip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\open_hip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/reverse_top.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\reverse_top.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/rope_spinning.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\rope_spinning.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/shoulder_to_shoulder.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\shoulder_to_shoulder.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/side_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\side_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/spiral.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\spiral.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/split_cuban_breaks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\split_cuban_breaks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/spot_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\spot_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/sweetheart.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\sweetheart.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/there_and_back.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\there_and_back.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/three_cha_chas_fwd_back.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\three_cha_chas_fwd_back.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/three_cha_chas_in_RSP_LSP.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\three_cha_chas_in_RSP_LSP.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/time_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\time_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/turkish_towel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\turkish_towel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/cha_cha/underarm_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\cha_cha\underarm_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/google.com/+BallroomGuide
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\google.com\ BallroomGuide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/american_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\american_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/behind_back.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\behind_back.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/break.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\break.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/catapult.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\catapult.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/change_LR.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\change_LR.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/change_RL.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\change_RL.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/chicken_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\chicken_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/chugging.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\chugging.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/curly_whip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\curly_whip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/fallaway_rock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\fallaway_rock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/fallaway_throwaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\fallaway_throwaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/hip_bump.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\hip_bump.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/link.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\link.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/miami_special.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\miami_special.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/mooch.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\mooch.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/overturned_change_of_places_left_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\overturned_change_of_places_left_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/overturned_fallaway_throwaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\overturned_fallaway_throwaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/reverse_whip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\reverse_whip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/rolling_off_arm.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\rolling_off_arm.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/shoulder_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\shoulder_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/simple_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\simple_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/spanish_arms.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\spanish_arms.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/stalking_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\stalking_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/stop_go.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\stop_go.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/toe_heel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\toe_heel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/whip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\whip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/whip_throwaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\whip_throwaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/jive/windmill.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\jive\windmill.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/1
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/2
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\2.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/3
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\3.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/attack.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\attack.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/banderillas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\banderillas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/basic_backward.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\basic_backward.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/caping_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\caping_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/chasse_cape.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\chasse_cape.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/chasse_to_left.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\chasse_to_left.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/chasse_to_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\chasse_to_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/coup_de_pique.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\coup_de_pique.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/deplacement.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\deplacement.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/drag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\drag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/ecart.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\ecart.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/fallaway_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\fallaway_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/flamenco_taps.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\flamenco_taps.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/fregolina_farol.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\fregolina_farol.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/grand_circle.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\grand_circle.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/huit.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\huit.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/la_passe.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\la_passe.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/left_foot_variation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\left_foot_variation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/open_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\open_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/promenade_counter.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\promenade_counter.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/promenade_link_close.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\promenade_link_close.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/separation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\separation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/separation_fallaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\separation_fallaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/sixteen.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\sixteen.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/spanish_lines.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\spanish_lines.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/spins_counter_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\spins_counter_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/spins_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\spins_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/sur_place.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\sur_place.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/syncopated_chasse_to_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\syncopated_chasse_to_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/syncopated_separation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\syncopated_separation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/twists.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\twists.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/paso/twist_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\paso\twist_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/adv_cont_circ_hip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\adv_cont_circ_hip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/aida.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\aida.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/alemana.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\alemana.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/alternative_basic
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\alternative_basic-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/alternative_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\alternative_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/basic_in_place.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\basic_in_place.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/circular_hip_twist.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\circular_hip_twist.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/closed_basic
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\closed_basic-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/closed_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\closed_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/closed_hip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\closed_hip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/continuous_hip_twist.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\continuous_hip_twist.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/cuban_rocks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\cuban_rocks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/cucaracha.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\cucaracha.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/curl
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\curl-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/curl.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\curl.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/fan.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\fan.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/fencing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\fencing.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/google.com/+BallroomGuide
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\google.com\ BallroomGuide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/hand_to_hand.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\hand_to_hand.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/hockey_stick.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\hockey_stick.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/kiki_walks
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\kiki_walks-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/kiki_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\kiki_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/natural_opening.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\natural_opening.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/natural_top.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\natural_top.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/new_york.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\new_york.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/opening_out_LR.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\opening_out_LR.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/opening_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\opening_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/open_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\open_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/open_hip.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\open_hip.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/progressive_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\progressive_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/progressive_walks_rsp_lsp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\progressive_walks_rsp_lsp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/reverse_top.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\reverse_top.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/rope_spinning
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\rope_spinning-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/rope_spinning.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\rope_spinning.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/shoulder_to_shoulder.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\shoulder_to_shoulder.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/side_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\side_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/sliding_doors.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\sliding_doors.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/spiral.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\spiral.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/spot_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\spot_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/syncopated_cuban_rock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\syncopated_cuban_rock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/three_alemanas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\three_alemanas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/three_threes.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\three_threes.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/underarm_turn
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\underarm_turn-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/rumba/underarm_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\rumba\underarm_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/argentine_crosses.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\argentine_crosses.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/back_rocks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\back_rocks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/bf_pp_cpp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\bf_pp_cpp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/closed_rocks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\closed_rocks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/continuous_solo_spot_volta.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\continuous_solo_spot_volta.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/contra_bf.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\contra_bf.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/corta_jaca.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\corta_jaca.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/criss_cross_bf.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\criss_cross_bf.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/criss_cross_volta.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\criss_cross_volta.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/cruzados.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\cruzados.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_changes.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_changes.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_1.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_1_closed_to_shadow.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_1_closed_to_shadow.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_2_shadow_to_closed.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_2_shadow_to_closed.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_3_pp_cpp_to_shadow.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_3_pp_cpp_to_shadow.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_4_shadow_to_pp_cpp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_4_shadow_to_pp_cpp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_5_rsp_to_shadow.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_5_rsp_to_shadow.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_6_pp_cpp_to_contra.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_6_pp_cpp_to_contra.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_7_contra_to_pp_cpp
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_7_contra_to_pp_cpp-1.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/foot_change_7_contra_to_pp_cpp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\foot_change_7_contra_to_pp_cpp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/google.com/+BallroomGuide
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\google.com\ BallroomGuide.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/left
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\left.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/locks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\locks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/maypole.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\maypole.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/natural_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\natural_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/natural_roll.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\natural_roll.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/open_rocks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\open_rocks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/plait.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\plait.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/progressive_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\progressive_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/p_cp_runs.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\p_cp_runs.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/reverse_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\reverse_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/reverse_roll.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\reverse_roll.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/reverse_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\reverse_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/rhythm_bounce.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\rhythm_bounce.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/right
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/rolling_off_arm.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\rolling_off_arm.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/roundabout.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\roundabout.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/samba_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\samba_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/samba_walks_pp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\samba_walks_pp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/shadow_bota_fogos.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\shadow_bota_fogos.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/shadow_circ_voltas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\shadow_circ_voltas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/shadow_travelling_voltas.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\shadow_travelling_voltas.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/shadow_volta.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\shadow_volta.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/side_basic.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\side_basic.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/side_samba_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\side_samba_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/solo_spot_volta.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\solo_spot_volta.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/stationary_samba_walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\stationary_samba_walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/three_step_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\three_step_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/travel_bf_back.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\travel_bf_back.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/travel_bf_fwd.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\travel_bf_fwd.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/volta.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\volta.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/samba/whisk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\samba\whisk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_checked_fwd_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_checked_fwd_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_extended__bwd_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_extended__bwd_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_extended__fwd_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_extended__fwd_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_fwd_walk_turning.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_fwd_walk_turning.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_pressed__bwd_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_pressed__bwd_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_pressed__fwd_walk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_pressed__fwd_walk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_spiral_action.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_spiral_action.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_walks_bwd.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_walks_bwd.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/cr_walks_fwd.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\cr_walks_fwd.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_compact_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_compact_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_guapacha.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_guapacha.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_lock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_lock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_ronde_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_ronde_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_runaway_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_runaway_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_runs.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_runs.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_side_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_side_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_slip_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_slip_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/c_twist_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\c_twist_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_compact_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_compact_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_fwd_back_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_fwd_back_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_hesitation_ball_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_hesitation_ball_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_kick_ball_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_kick_ball_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_locks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_locks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_point_ball_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_point_ball_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_runs.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_runs.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_side_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_side_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/j_turning_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\j_turning_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/p_appel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\p_appel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/p_foot_changes.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\p_foot_changes.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/p_walks_bwd.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\p_walks_bwd.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/latin/technique/p_walks_fwd.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\latin\technique\p_walks_fwd.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/big_top_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\big_top_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/chasse_roll_left_waltz_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\chasse_roll_left_waltz_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/chasse_roll_right_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\chasse_roll_right_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/curved_three_step_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\curved_three_step_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/developpe_leg_hook_oversway_waltz_foxtrot_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\developpe_leg_hook_oversway_waltz_foxtrot_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/double_natural_spin_overturn_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\double_natural_spin_overturn_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/double_reverse_spin_overturn_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\double_reverse_spin_overturn_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/double_side_cross_waltz_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\double_side_cross_waltz_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/fallaway_whisk_promenade_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\fallaway_whisk_promenade_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/hinge_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\hinge_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/oversway_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\oversway_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/promenade_pivot_reverse_swivel_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\promenade_pivot_reverse_swivel_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/quick_closed_natural_telemark_waltz_foxtrot_quickste_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\quick_closed_natural_telemark_waltz_foxtrot_quickste_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/quick_closed_telemark_waltz_foxtrot_quickste_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\quick_closed_telemark_waltz_foxtrot_quickste_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/quick_open_natural_telemark_waltz_foxtrot_quickste_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\quick_open_natural_telemark_waltz_foxtrot_quickste_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/quick_open_natural_turn_outside_spin_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\quick_open_natural_turn_outside_spin_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/quick_open_telemark_waltz_foxtrot_quickste_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\quick_open_telemark_waltz_foxtrot_quickste_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/quick_weave_promenade_waltz_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\quick_weave_promenade_waltz_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/right_lunge_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\right_lunge_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/running_feather_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\running_feather_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/running_spin_turn_waltz_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\running_spin_turn_waltz_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/running_weave_promenade_waltz_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\running_weave_promenade_waltz_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/same_foot_lunge_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\same_foot_lunge_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/side_cross_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\side_cross_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/syncopated_side_cross_waltz_foxtrot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\syncopated_side_cross_waltz_foxtrot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/telespin_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\telespin_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/teleswivel_waltz_foxtrot_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\teleswivel_waltz_foxtrot_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/throwaway_oversway_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\throwaway_oversway_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/tumble_turn_waltz_foxtrot_quickstep_tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\tumble_turn_waltz_foxtrot_quickstep_tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/turning_lock_right_pivot_waltz_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\turning_lock_right_pivot_waltz_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/advanced/weave_to_counter_promenade_to_fallaway_waltz_foxtrot_quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\advanced\weave_to_counter_promenade_to_fallaway_waltz_foxtrot_quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/basic_weave.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\basic_weave.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/bounce_fallaway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\bounce_fallaway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/change_direction.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\change_direction.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/closed_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\closed_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/closed_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\closed_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/curved_feather_back.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\curved_feather_back.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/fallaway_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\fallaway_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/feather_ending.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\feather_ending.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/feather_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\feather_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/hover_cross.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\hover_cross.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/hover_feather.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\hover_feather.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/hover_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\hover_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/natural_hover_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\natural_hover_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/natural_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\natural_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/natural_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\natural_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/natural_weave.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\natural_weave.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/open_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\open_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/open_natural_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\open_natural_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/open_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\open_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/outside_swivel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\outside_swivel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/prep_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\prep_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/reverse_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\reverse_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/reverse_wave.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\reverse_wave.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/three_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\three_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/top_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\top_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/twist_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\twist_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/twist_turn_closed_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\twist_turn_closed_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/twist_turn_open_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\twist_turn_open_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/twist_turn_weave.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\twist_turn_weave.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/weave_from_pp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\weave_from_pp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/foxtrot/zig_zag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\foxtrot\zig_zag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/back_lock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\back_lock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/change_direction.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\change_direction.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/chasse_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\chasse_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/chasse_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\chasse_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/closed_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\closed_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/closed_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\closed_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/cross_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\cross_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/cross_swivel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\cross_swivel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/double_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\double_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/fishtail.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\fishtail.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/forward_lock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\forward_lock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/four_quick_run.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\four_quick_run.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/heel_pivot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\heel_pivot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/hesitation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\hesitation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/hover_corte.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\hover_corte.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/natural_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\natural_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/natural_turn_lock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\natural_turn_lock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/pivot_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\pivot_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/prep_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\prep_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/progressive_chasse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\progressive_chasse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/quarter_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\quarter_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/quick_open_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\quick_open_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/reverse_pivot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\reverse_pivot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/rumba_cross.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\rumba_cross.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/running_finish.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\running_finish.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/running_right_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\running_right_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/six_quick_run.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\six_quick_run.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/spin_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\spin_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/tipple.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\tipple.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/tipsy.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\tipsy.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/tipsy_to_L.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\tipsy_to_L.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/tipsy_to_R.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\tipsy_to_R.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/v6.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\v6.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/quickstep/zig_zag.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\quickstep\zig_zag.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/back_open_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\back_open_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/basic_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\basic_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/brush_tap.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\brush_tap.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/chase.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\chase.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/closed_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\closed_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/contra_check.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\contra_check.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/corte.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\corte.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/fallaway_four_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\fallaway_four_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/fallaway_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\fallaway_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/fallaway_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\fallaway_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/five_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\five_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/five_step_overturned.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\five_step_overturned.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/four_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\four_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/four_step_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\four_step_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/open_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\open_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/open_reverse_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\open_reverse_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/outside_swivel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\outside_swivel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/oversway.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\oversway.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/point_to_pp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\point_to_pp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/progressive_link.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\progressive_link.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/promenade_link.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\promenade_link.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/promenade_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\promenade_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/reverse_outside_swivel.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\reverse_outside_swivel.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/reverse_turn_line.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\reverse_turn_line.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/reverse_turn_outside.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\reverse_turn_outside.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/rocks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\rocks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/rock_LF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\rock_LF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/rock_RF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\rock_RF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/rock_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\rock_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/side_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\side_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/side_step_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\side_step_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/twist_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\twist_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/walks.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\walks.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/walk_LF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\walk_LF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/tango/walk_RF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\tango\walk_RF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/technique.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\technique.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/technique/tango_hold.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\technique\tango_hold.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/technique/tango_precede_promenade.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\technique\tango_precede_promenade.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/back_change_natural_to_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\back_change_natural_to_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/back_change_reverse_to_natural.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\back_change_reverse_to_natural.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/contra_check.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\contra_check.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/forward_change_natural_to_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\forward_change_natural_to_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/forward_change_reverse_to_natural.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\forward_change_reverse_to_natural.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/natural_fleckerl.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\natural_fleckerl.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/natural_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\natural_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/reverse_fleckerl.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\reverse_fleckerl.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/viennese/reverse_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\viennese\reverse_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/back_lock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\back_lock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/back_whisk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\back_whisk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/basic_weave.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\basic_weave.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/chasse_from_pp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\chasse_from_pp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/chasse_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\chasse_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/closed_change_LF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\closed_change_LF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/closed_change_RF.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\closed_change_RF.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/closed_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\closed_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/closed_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\closed_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/closed_wing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\closed_wing.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/contra_check.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\contra_check.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/cross_hesitation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\cross_hesitation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/double_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\double_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/drag_hesitation.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\drag_hesitation.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/fallaway_reverse.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\fallaway_reverse.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/hesitation_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\hesitation_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/hover_corte.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\hover_corte.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/left_whisk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\left_whisk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/natural_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\natural_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/open_impetus.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\open_impetus.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/open_telemark.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\open_telemark.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/outside_change.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\outside_change.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/outside_spin.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\outside_spin.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/prep_step.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\prep_step.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/reverse_corte.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\reverse_corte.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/reverse_pivot.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\reverse_pivot.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/reverse_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\reverse_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/spin_turn.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\spin_turn.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/turning_lock.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\turning_lock.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/turning_lock_right.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\turning_lock_right.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/weave_from_pp.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\weave_from_pp.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/whisk.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\whisk.html
+Content Type: text/html
+
+Uri: http://167.99.42.92/workshop/standard/waltz/wing.html
+File Name: C:\Downloaded Web Sites\167.99.42.92\workshop\standard\waltz\wing.html
+Content Type: text/html
+
+Uri: http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700
+File Name: C:\Downloaded Web Sites\167.99.42.92\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/arvo/v20/tDbM2oWUg0MKoZw1-LPK9g.ttf
+File Name: C:\Downloaded Web Sites\167.99.42.92\s\arvo\v20\tDbM2oWUg0MKoZw1-LPK9g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\167.99.42.92\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Downloaded Web Sites\167.99.42.92\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Downloaded Web Sites\167.99.42.92\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: http://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0
+File Name: C:\Downloaded Web Sites\167.99.42.92\static\skins\bootstrap\twitter-bootstrap.css
+Content Type: text/css
+
